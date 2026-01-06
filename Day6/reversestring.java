@@ -16,4 +16,7 @@ public class reversestring {
     System.out.println(new String(c));
     }
     
-}
+}   
+   
+
+   
