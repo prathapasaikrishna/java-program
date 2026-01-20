@@ -1,6 +1,6 @@
-package com.leetcode;
+package bank.chennai;
 
-public class Lc121 {
+public class SBI {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
